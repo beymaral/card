@@ -7,7 +7,7 @@ clone repository with command
 ```
 git clone https://github.com/beymaral/card.git
 ```
-create virtual environment [pip] (https://pypi.org)
+create virtual environment [pip](https://pypi.org)
 ```
 python3 -m venv <name_venv>
 ```
